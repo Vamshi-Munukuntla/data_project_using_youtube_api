@@ -15,6 +15,8 @@ def sidebar():
 
     st.sidebar.divider()
 
+    st.sidebar.markdown('Source code can be found [here](https://github.com/Vamshi-Munukuntla/data_project_using_youtube_api)')
+
     st.sidebar.markdown('Made by [Vamshi Munukuntla](https://github.com/Vamshi-Munukuntla)')
 
 def inputs():
